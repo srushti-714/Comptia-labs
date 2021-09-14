@@ -11,7 +11,7 @@ Lab hardware for Security +
 1. KALI Linux Server
 1. Linux Server
 
-![Topology security lab.](images/security.png "Security topology")
+![Topology security lab.](images/security-topology.png "Security topology")
 
 ## Credentials for Guest OS
 
