@@ -1,4 +1,14 @@
-# Getting started
+# CompTIA labs : demo
+
+This environment is configured to provide sufficient hardware to carry out tasks directly and also test the impact of those changes without worrying about the pre-requisites required.
 
 ## Architecture diagram
 
+Lab hardware for Security +
+
+1. AD Domain Controller
+1. Windows 10 Client
+1. KALI Linux Server
+1. Linux Server
+
+![Topology security lab.](images/security.png "Security topology")
