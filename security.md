@@ -1,8 +1,8 @@
-# CompTIA Labs : Demo
+# CompTIA Labs : Security +
 
 This environment is configured to provide sufficient hardware to carry out tasks directly and also test the impact of those changes without worrying about the pre-requisites required.
 
-## Architecture diagram : Security+
+## Architecture diagram
 
 Lab hardware for Security +
 
@@ -24,6 +24,4 @@ Use the following credentials for all the four guest operating systems.
 1. KALI Linux Server
 1. Linux Server
 
-## Architecture diagram : Server+
 
-![Topology security lab.](images/server-topology-2.png "Server topology")
