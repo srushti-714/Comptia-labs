@@ -6,7 +6,7 @@ This environment is configured to provide sufficient hardware to carry out tasks
 
 Lab hardware for Security +
 
-1. AD Domain Controller
+1. Windows Server 2016- AD Domain Controller
 1. Windows 10 Client
 1. KALI Linux Server
 1. Linux Server
@@ -19,7 +19,7 @@ Use the following credentials for all the four guest operating systems.
 * **Username:** <inject key="Host VM Admin Username" />
 * **Password:** <inject key="Host VM Admin Password" />
 
-1. AD Domain Controller
+1. Windows Server 2016- AD Domain Controller
 1. Windows 10 Client
 1. KALI Linux Server
 1. Linux Server
