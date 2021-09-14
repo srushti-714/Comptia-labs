@@ -1,0 +1,4 @@
+# Getting started
+
+## Architecture diagram
+
