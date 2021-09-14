@@ -12,3 +12,15 @@ Lab hardware for Security +
 1. Linux Server
 
 ![Topology security lab.](images/security.png "Security topology")
+
+## Credentials for Guest OS
+
+Use the following credentials for all the four guest operating systems.
+* **Username:** <inject key="Host VM Admin Username" />
+* **Password:** <inject key="Host VM Admin Password" />
+
+1. AD Domain Controller
+1. Windows 10 Client
+1. KALI Linux Server
+1. Linux Server
+
