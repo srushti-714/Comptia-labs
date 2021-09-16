@@ -4,7 +4,7 @@ This environment is configured to provide sufficient hardware to carry out tasks
 
 ## Architecture diagram
 
-Lab hardware for Security +
+Lab hardware for Server +
 
 1. Windows server 2019 standard  -DC
 2. Windows server 2016 standard
