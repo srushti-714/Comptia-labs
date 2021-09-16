@@ -14,7 +14,7 @@ Lab hardware for Server +
 6. Linux Vyos
 
 
-![Topology server lab.](images/servertopology-3.png "Server topology")
+![Topology server lab.](images/server-topology-3.png "Server topology")
 
 ## Credentials for Guest OS
 
