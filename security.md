@@ -15,13 +15,16 @@ Lab hardware for Security +
 
 ## Credentials for Guest OS
 
-Use the following credentials for all the four guest operating systems.
+Use the following credentials for the following guest operating systems.
 * **Username:** <inject key="Host VM Admin Username" />
 * **Password:** <inject key="Host VM Admin Password" />
 
-1. Windows Server 2016- AD Domain Controller
 1. Windows 10 Client
 1. KALI Linux Server
-1. Linux Server
+1. Linux Server and
+
+For 4.Windows Server 2016- AD Domain Controller
+* **Username:** COMPTIALABS\<inject key="Host VM Admin Username" />
+* **Password:** <inject key="Host VM Admin Password" />
 
 
