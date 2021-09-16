@@ -23,8 +23,8 @@ Use the following credentials for the following guest operating systems.
 1. KALI Linux Server
 1. Linux Server and
 
-For 4.Windows Server 2016- AD Domain Controller
-* **Username:** COMPTIALABS\<inject key="Host VM Admin Username" />
+1. Windows Server 2016- AD Domain Controller, use the following credentials
+* **Username:** COMPTIALABS\ <inject key="Host VM Admin Username" />
 * **Password:** <inject key="Host VM Admin Password" />
 
 
