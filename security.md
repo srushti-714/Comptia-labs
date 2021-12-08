@@ -25,6 +25,6 @@ Use the following credentials for the following guest operating systems.
 
 1. Windows Server 2016- AD Domain Controller, use the following credentials
 * **Username:** COMPTIALABS\ <inject key="Host VM Admin Username" />
-* **Password:** <inject key="Host VM Admin Password" />
+* **Password:** password.1!!
 
 
