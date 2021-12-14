@@ -1,6 +1,6 @@
 # NET 111 - Hands on Final Fall 2021
 
-This hands-on environment has the lab virtual machine pre-installed with Hyper-V Manager and the required ISO files.
+This hands-on environment provisions the lab virtual machine pre-installed with Hyper-V Manager and the required ISO files.
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ This hands-on environment has the lab virtual machine pre-installed with Hyper-V
 
    ![](images/resourcestab.png)
    
-5. The ISO files for the below images are pre-downloaded for you in the **C:\LabFiles\ISO** folder.
+5. The ISO files for the below operating systems are pre-downloaded for you in the **C:\LabFiles\ISO** folder.
    - Windows 10 
    - Windows Server 2016
    - Windows Server 2019
