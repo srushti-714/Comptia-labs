@@ -21,9 +21,9 @@ This hands-on environment has the lab virtual machine pre-installed with Hyper-V
    ![](images/resourcestab.png)
    
 5. The ISO files for the below images are pre-downloaded for you in the **C:\LabFiles\ISO** folder.
-1. Windows 10 
-1. Windows Server 2016
-1. Windows Server 2019
+   - Windows 10 
+   - Windows Server 2016
+   - Windows Server 2019
 
 
 
